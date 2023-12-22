@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./img/logo2.png" width="100" height="100"><br>
+  <img src="./img/Logo Verycheck.png" width="100" height="100"><br>
   <i>Your Guide to Ornamental Fish Discoveries.</i>
 </div>
 
@@ -92,14 +92,14 @@ Our team made this project because they realized that many ordinary people are n
 ### Demo Our App
 <p align="center">
   <a href="https://www.youtube.com/watch?v=MLo4IgjOO7Q">
-    <img src="https://img.youtube.com/vi/MLo4IgjOO7Q/0.jpg" alt="YouTube Video" />
+    <img src="./img/Logo Verycheck.png" alt="YouTube Video" />
   </a>
 </p>
 
 ### Our Presentation
 <p align="center">
   <a href="https://www.youtube.com/watch?v=GOElbi0PYsk">
-    <img src="https://img.youtube.com/vi/MLo4IgjOO7Q/0.jpg" alt="YouTube Video" />
+    <img src="./img/Logo Verycheck.png" alt="YouTube Video" />
   </a>
 </p>
 
