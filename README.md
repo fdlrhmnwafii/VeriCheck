@@ -47,7 +47,7 @@ Our team made this project because they realized that many ordinary people are n
       <td>Machine Learning</td>
     <td>
         <a href="https://github.com/rossiannahutabarat"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/rossiannadewi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/dewi-sartika-zainuddin-23169221b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ Our team made this project because they realized that many ordinary people are n
       <td>Cloud Computing</td>
    <td>
         <a href="https://github.com/loekem"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/mohammad-lukman-hakim-117a68272"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/alberthankho/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ Our team made this project because they realized that many ordinary people are n
       <td>Cloud Computing</td>
  <td>
         <a href="https://github.com/maschollan"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/kholan-m/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/achmad-rizqon-subarkah-65a384282/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
     <tr>
